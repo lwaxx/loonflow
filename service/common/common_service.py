@@ -119,6 +119,12 @@ class CommonService(BaseService):
                 return False, 'not all dict value is same'
         return True, ''
 
+    def test():
+        """
+        this is test
+        """
+        pass
+
 
 common_service_ins = CommonService()
 
