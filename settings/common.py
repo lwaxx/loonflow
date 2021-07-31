@@ -155,6 +155,9 @@ AUTH_USER_MODEL = 'account.LoonUser'
 
 STATIC_URL = '/static/'
 
+# this is test4
+useless = ''
+
 
 FIXTURE_DIRS = ['fixtures/']
 STATIC_FILES_VERSION = '1.0'
