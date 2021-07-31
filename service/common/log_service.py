@@ -20,3 +20,10 @@ def auto_log(func):
             logger.error(traceback.format_exc())
             return False, e.__str__()
     return _deco
+
+
+def test2():
+    """
+    this is test2
+    """
+    pass
