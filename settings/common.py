@@ -170,3 +170,7 @@ if platform.system() == 'Windows':
     HOMEPATH = os.environ['HOMEPATH']
 else:
     HOMEPATH = os.environ['HOME']
+
+
+# this is test5
+useless1 = ""
